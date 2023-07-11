@@ -8,7 +8,7 @@ export default function Map(props) {
   return (
     <>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: `AIzaSyBATrW5zJRwJHxtsK1SwtOFexHtGcYKP7Y` }}
+        bootstrapURLKeys={{ key: process.env.REACT_APP_GOOGLE_MAPS_API_KEY }}
         defaultCenter={props.coordinate}
         center={props.coordinate}
         zoom={15}
