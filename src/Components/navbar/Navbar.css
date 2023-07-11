@@ -1,0 +1,17 @@
+.roundedcommon {
+  border-radius: 16px;
+}
+.cards {
+  height: 80vh;
+  overflow-y: scroll;
+}
+
+.navbar {
+  padding-inline: 0;
+  padding-bottom: 0;
+}
+
+hr {
+  margin: 0;
+  margin-top: 12px;
+}
