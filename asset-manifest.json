@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/traveladvisor/static/css/main.f4d5f089.css",
-    "main.js": "/traveladvisor/static/js/main.2c4ca033.js",
+    "main.js": "/traveladvisor/static/js/main.b529e038.js",
     "static/media/rohan-g--mwNJswDlXE-unsplash.jpg": "/traveladvisor/static/media/rohan-g--mwNJswDlXE-unsplash.3ad4c7012b10421c9e1c.jpg",
     "index.html": "/traveladvisor/index.html",
     "main.f4d5f089.css.map": "/traveladvisor/static/css/main.f4d5f089.css.map",
-    "main.2c4ca033.js.map": "/traveladvisor/static/js/main.2c4ca033.js.map"
+    "main.b529e038.js.map": "/traveladvisor/static/js/main.b529e038.js.map"
   },
   "entrypoints": [
     "static/css/main.f4d5f089.css",
-    "static/js/main.2c4ca033.js"
+    "static/js/main.b529e038.js"
   ]
 }
