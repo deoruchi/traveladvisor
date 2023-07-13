@@ -13,7 +13,7 @@ export const mapData = async (type, sw, ne) => {
           bl_longitude: sw?.lng,
           tr_longitude: ne?.lng,
         },
-        headers: {
+      headers: {
     'X-RapidAPI-Key': '132ef6a0efmshdc3988bfa127bd3p1e53e4jsnd448192975d9',
     'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com'
   },
