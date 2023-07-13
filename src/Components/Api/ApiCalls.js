@@ -15,7 +15,7 @@ export const mapData = async (type, sw, ne) => {
         },
         headers: {
           "X-RapidAPI-Key":
-            "132ef6a0efmshdc3988bfa127bd3p1e53e4jsnd448192975d9",
+            "ba2d03d219mshf2cc206672f39a4p1c09bajsnfde5740ddd02",
           "X-RapidAPI-Host": "travel-advisor.p.rapidapi.com",
         },
       }
